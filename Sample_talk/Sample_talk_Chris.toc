@@ -1,14 +1,13 @@
-\beamer@endinputifotherversion {3.26pt}
+\beamer@endinputifotherversion {3.06pt}
 \select@language {english}
-\beamer@sectionintoc {2}{Background}{4}{0}{1}
-\beamer@subsectionintoc {2}{1}{What is testing?}{5}{0}{1}
+\beamer@sectionintoc {2}{Background}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{What is testing?}{4}{0}{1}
 \beamer@subsectionintoc {2}{2}{Test-Last Testing and Waterfall Development}{6}{0}{1}
 \beamer@subsectionintoc {2}{3}{Test-First Testing and Test Driven Development}{8}{0}{1}
 \beamer@sectionintoc {3}{Comparison Between Test-First and Test-Last Testing}{11}{0}{2}
-\beamer@subsectionintoc {3}{1}{Perception of Test-First vs Test-Last}{12}{0}{2}
-\beamer@subsectionintoc {3}{2}{Current Data}{14}{0}{2}
+\beamer@subsectionintoc {3}{1}{Measuring Test Methods}{12}{0}{2}
+\beamer@subsectionintoc {3}{2}{Current Data}{13}{0}{2}
 \beamer@subsectionintoc {3}{3}{Discussion}{16}{0}{2}
-\beamer@sectionintoc {4}{Different ways of Implementing Test-First Testing}{18}{0}{3}
-\beamer@subsectionintoc {4}{1}{The challenges of Test Driven Development}{19}{0}{3}
-\beamer@subsectionintoc {4}{2}{Behavior Driven Development}{20}{0}{3}
-\beamer@sectionintoc {5}{Summary}{21}{0}{4}
+\beamer@sectionintoc {4}{Different ways of Implementing Test-First Testing}{19}{0}{3}
+\beamer@subsectionintoc {4}{1}{The challenges of Test Driven Development}{20}{0}{3}
+\beamer@subsectionintoc {4}{2}{Things to Take Away From this Presentation}{23}{0}{3}

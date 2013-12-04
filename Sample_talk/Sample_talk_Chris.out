@@ -1,12 +1,13 @@
-\BOOKMARK [2][]{Outline0.2}{Background}{}% 1
-\BOOKMARK [3][]{Outline0.2.1.5}{What is testing?}{Outline0.2}% 2
-\BOOKMARK [3][]{Outline0.2.2.6}{Test-Last Testing and Waterfall Development}{Outline0.2}% 3
-\BOOKMARK [3][]{Outline0.2.3.8}{Test-First Testing and Test Driven Development}{Outline0.2}% 4
-\BOOKMARK [2][]{Outline0.3}{Comparison Between Test-First and Test-Last Testing}{}% 5
-\BOOKMARK [3][]{Outline0.3.1.12}{Perception of Test-First vs Test-Last}{Outline0.3}% 6
-\BOOKMARK [3][]{Outline0.3.2.14}{Current Data}{Outline0.3}% 7
-\BOOKMARK [3][]{Outline0.3.3.16}{Discussion}{Outline0.3}% 8
-\BOOKMARK [2][]{Outline0.4}{Different ways of Implementing Test-First Testing}{}% 9
-\BOOKMARK [3][]{Outline0.4.1.19}{The challenges of Test Driven Development}{Outline0.4}% 10
-\BOOKMARK [3][]{Outline0.4.2.20}{Behavior Driven Development}{Outline0.4}% 11
-\BOOKMARK [2][]{Outline0.5}{Summary}{}% 12
+\BOOKMARK [2][]{Outline0.1}{Overview}{}
+\BOOKMARK [3][]{Outline0.1.1.2}{}{Outline0.1}
+\BOOKMARK [2][]{Outline0.2}{Background}{}
+\BOOKMARK [3][]{Outline0.2.1.4}{What is testing?}{Outline0.2}
+\BOOKMARK [3][]{Outline0.2.2.6}{Test-Last Testing and Waterfall Development}{Outline0.2}
+\BOOKMARK [3][]{Outline0.2.3.8}{Test-First Testing and Test Driven Development}{Outline0.2}
+\BOOKMARK [2][]{Outline0.3}{Comparison Between Test-First and Test-Last Testing}{}
+\BOOKMARK [3][]{Outline0.3.1.12}{Measuring Test Methods}{Outline0.3}
+\BOOKMARK [3][]{Outline0.3.2.13}{Current Data}{Outline0.3}
+\BOOKMARK [3][]{Outline0.3.3.16}{Discussion}{Outline0.3}
+\BOOKMARK [2][]{Outline0.4}{Different ways of Implementing Test-First Testing}{}
+\BOOKMARK [3][]{Outline0.4.1.20}{The challenges of Test Driven Development}{Outline0.4}
+\BOOKMARK [3][]{Outline0.4.2.23}{Things to Take Away From this Presentation}{Outline0.4}
